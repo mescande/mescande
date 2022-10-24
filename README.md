@@ -1,20 +1,24 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div align="center">
+  <img id="header" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/mescande">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
 
 ---
-
-- 🌱 I’m currently learning RUST
+<div align="center">
+  <img id="header" src="https://media.giphy.com/media/sGBejL5i7iS9RTMnKx/giphy.gif" width="100"/>
+  <p>
+     🌱 I’m currently learning RUST
+  </p>
+</div>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-devicon/icons/cplusplus/cplusplus-original.svg
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
