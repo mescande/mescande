@@ -18,6 +18,9 @@
   <p>
      🌱 I’m currently learning RUST
   </p>
+  <p>
+     Working, but always open to new opportunities
+  </p>
 </div>
 
 ---
@@ -25,14 +28,14 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nestjs" **alt="Nestjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="Nixos" **alt="Nixos" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" title="Neovim" **alt="Neovim" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"    title="Git"    **alt="Git"    width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"    **alt="C++"    width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"                 title="C"      **alt="C"      width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"         title="React"  **alt="React"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"              title="Rust"   **alt="Rust"   width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"          title="Nestjs" **alt="Nestjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg"         title="Nixos"  **alt="Nixos"  width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"                    title="Neovim" **alt="Neovim" width="40" height="40"/>
 </div>
 
 <!--
